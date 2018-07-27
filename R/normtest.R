@@ -1,7 +1,7 @@
 #' Normtest
 #'
 #'Performing Test for normality
-#' @param a list of numbers to be tested for normality
+#' @param x list of numbers to be tested for normality
 #'
 #' @return Returns the dataframe having shapiro test, ad test, cvm test, ll test, sf test
 #'

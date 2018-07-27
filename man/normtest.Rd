@@ -7,7 +7,7 @@
 normtest(x)
 }
 \arguments{
-\item{a}{list of numbers to be tested for normality}
+\item{x}{list of numbers to be tested for normality}
 }
 \value{
 Returns the dataframe having shapiro test, ad test, cvm test, ll test, sf test
