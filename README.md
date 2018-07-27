@@ -4,9 +4,9 @@ Contains data files and wrappers , useful for the students of DoMS, IISc.
 
 ## Methods
 
-*Normality test
+* Normality test
 
 ## Datasets
 
-*clock price dataset
-*Auto dataset
+* clock price dataset
+* Auto dataset
